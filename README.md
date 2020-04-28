@@ -1,1 +1,1 @@
-# tc-chains-labs-tr-31
+Labs for the course Theoretical basics in Telecommunication chains 2020. Lviv Polytechnic University.
